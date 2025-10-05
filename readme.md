@@ -43,4 +43,4 @@ If you encounter display issues, increase your terminal window size.
 
 ---
 
-*written with AI.*
+*readme written with AI.*
